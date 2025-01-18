@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
-
+// import { SocialHeaderComponent } from './social-header/social-header.component';
 
 describe('AppComponent', () => {
   beforeEach(async () => {
